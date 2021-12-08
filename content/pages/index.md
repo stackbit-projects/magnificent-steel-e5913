@@ -8,7 +8,7 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     section_id: hero
-    title: 'Solving Business Problems With '
+    title: Solving Business Problems With Rapid Websites.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
