@@ -8,7 +8,7 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     section_id: hero
-    title: 'Northrule Web Design. Solving Business '
+    title: 'Solving Business '
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
