@@ -3,9 +3,9 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    content: >-
+    content: >
       We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+      deliver inspiring work, which enables your organisation to grow. [Let's
       talk](/contact/).
     section_id: hero
     title: Solving Business Problems With Rapid Websites.
